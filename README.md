@@ -1,2 +1,2 @@
 # NoisePWGenerator
-An application that generates a random secure password based on the criteria the user selects
+This application will generate a safe random password based on the parameters you select.  The password can be any length from 8 to 128 characters and can include uppercase and lowercase letters, numbers, and a selection of special characters.  If you select multiple types, it will randomly choose an applicable character of each in a set pattern up to the requested password length. For example, if you select 8 characters and all types, the password might be Px1&Ke2=.  It will cut the pattern short if it reaches the requested length.
